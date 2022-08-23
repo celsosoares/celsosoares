@@ -1,4 +1,4 @@
-- I’m currently working as Software Engineer Intern at Tempest
+- I’m currently working as Software Engineer at Tempest
 - I’m currently learning privacy, security and development
 
 <!---
