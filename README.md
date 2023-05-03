@@ -1,4 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ### Hi 👋
 I am currently a backend developer working mainly with technologies such as typescript, nestJS, Golang, PostgreSQL.
