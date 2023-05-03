@@ -4,6 +4,7 @@ I am currently a backend developer working mainly with technologies such as type
 - 🔭 I’m currently working as Software Engineer at AllowMe.
 - 🌱 I’m currently learning privacy, security and development.
 - 🤝 I'm looking to collaborate on projects involving security in general. 
+contact: celso.soares.dev@gmail.com
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=celsosoares)
 
